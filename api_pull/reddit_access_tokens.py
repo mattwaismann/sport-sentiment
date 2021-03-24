@@ -1,0 +1,5 @@
+client_id = 'oGQl7P76t9kUwg'
+client_secret= 'i8rb9ogRJGU-4XN1QUyyTP6_mD_HQA' 
+username = 'smgcamper'
+password = 'Irvine@001'
+user_agent = 'praw_demo'
