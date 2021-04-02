@@ -1,5 +1,5 @@
 ### Sport Sentiment
-Sport Sentiment is a NLP language model trained on self-labeled texts from Twitter and Reddit's APIs. The idea was to analyze the sentiment of Liverpool FC's fan base throughout the course of a game. 
+Sport Sentiment is a NLP language model trained end-to-end on self-labeled texts pulled from Twitter and Reddit's APIs. The idea was to analyze the sentiment of Liverpool FC's fan base throughout the course of a game. 
 
 Future plans include training the model on larger dataset, allowing for the use of sequential models like recurrent neural networks. In addition, I am working on a flask app to make this tool interactive and accessible to anyone. Stay tuned!
 
