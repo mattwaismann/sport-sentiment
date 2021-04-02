@@ -1,1 +1,1 @@
-![Liverpool FC vs Manchester united]
+![Liverpool FC vs Manchester united][/images/liv_manu.png)
