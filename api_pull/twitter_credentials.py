@@ -1,6 +1,0 @@
-'''Variables that contain user credentials to access twitter API'''
-access_token = '1298365973485907968-BEMQWLwNoDZyC8Av3QfIQB7cnCo1zs'
-access_token_secret = 'ktM8WfUUAuXQ5GxbTDqz5faulLH5eDYw02bwLWNz5DvrE'
-consumer_key = 'Rm6UGPxshSyyMqccgyVRRPQZ8'
-consumer_secret ='yvMqatMf2T6lnHsGegbDs7tDtJJCD77VNy1UDlNe97Kkjk2CED'
-bearer_token = 'AAAAAAAAAAAAAAAAAAAAACusHAEAAAAAQOrZxgaar7kdinIwgS8lY%2FrOnP0%3DbVYASvdHJtBlpRaPIn2nnXlYNfljDQHmo70owsBqc7SxryWb0O'
